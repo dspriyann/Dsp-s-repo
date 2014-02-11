@@ -1,5 +1,4 @@
 <?php
-echo "changed by ilaiyaraja";
 echo "changed by ilaiyaraja & priyan";
 $start = '8:00';
 $time = strtotime($start);
